@@ -1,0 +1,20 @@
+{
+  "name": "notescreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.3"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "drag-drop": "^7.2.0",
+    "fs-extra": "^10.1.0",
+    "open": "^8.4.0"
+  }
+}
